@@ -12,7 +12,7 @@ I am a IIT Guwahati undergrad sophomore.<br><br>I build full stack web and andro
 ![](https://streak-stats.demolab.com/?user=Ayan-Bain&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayan-Bain&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies# 💫 About Me:
+## 💫 About Me:
 I am a IIT Guwahati undergrad sophomore.<br><br>I build full stack web and android apps on my (not so spare)time.<br><br>I am currently working on MYSELF and my soft skills(I am awkward in public spaces).<br><br>I am learning frontend designing and improving my CP/DSA skills.<br><br>I can talk all day about backend architecture and music.<br><br>
 
 
